@@ -4,3 +4,5 @@ rock
 merengue
 salsa
 hip hop
+genero urbano
+mambo
